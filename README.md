@@ -25,6 +25,16 @@ A **PHP-based Expense Tracker** designed to help users manage and monitor their 
 1. Clone the repository:
    ```bash
    git clone https://github.com/Gowthamhegde/expence-tracker.git
+   
+   Open XAMPP and start Apache and MySQL.
+   Create a new MySQL database and import the database.sql file.
+   Configure the config.php file:
+   Set up database name, username, and password.
+   Open the project in a browser
+
+   http://localhost/expence-tracker
+
+
 💻 Usage
 Register or Log In.
 Add your expenses, assign categories, and view reports.
