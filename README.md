@@ -26,13 +26,13 @@ A **PHP-based Expense Tracker** designed to help users manage and monitor their 
    ```bash
    git clone https://github.com/Gowthamhegde/expence-tracker.git
    
-2.** XAMPP and start Apache and MySQL.**
-3.**Create a new MySQL database and import the database.sql file.**
-4.**Configure the config.php file:**
-5.**Set up database name, username, and password.**
-6.**Open the project in a browser**
+2.** XAMPP and start Apache and MySQL**.
+3.**Create a new MySQL database and import the database.sql file**.
+4.**Configure the config.php file**:
+5.**Set up database name, username, and password**.
+6.**Open the project in a browser**.
   ```bash
-  http://localhost/expence-tracker
+    http://localhost/expence-tracker
 
 
 
