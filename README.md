@@ -47,16 +47,16 @@ A **PHP-based Expense Tracker** designed to help users manage and monitor their 
    git clone https://github.com/Gowthamhegde/expence-tracker.git
 
 2. **Set up a local server**
-   # Open XAMPP and start Apache and MySQL
+   Open XAMPP and start Apache and MySQL
 
 3.**Create a MySQL database**
-   # Open phpMyAdmin
-   # Create a new database
-   # Import database.sql file
+     Open phpMyAdmin
+     Create a new database
+     Import database.sql file
 
 4.**Configure the config.php file**
 
-   # Update the following:
+   Update the following:
    DB_HOST = 'localhost'  
    DB_USER = 'root'
    DB_PASS = ''
@@ -64,3 +64,10 @@ A **PHP-based Expense Tracker** designed to help users manage and monitor their 
 
 5.**Start the project**
    http://localhost/expence-tracker
+
+💻 Usage
+   Register or Log In
+   Add an Expense – Enter the amount, date, and category
+   Edit/Delete an Expense – Modify existing expenses anytime
+   Sort and Filter – Arrange expenses by date or category
+   View Summary – Total and category-wise expenses s
