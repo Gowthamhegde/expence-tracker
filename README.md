@@ -55,16 +55,17 @@ A **PHP-based Expense Tracker** designed to help users manage and monitor their 
      Import database.sql file
 
 4.**Configure the config.php file**
-
+```
    Update the following:
    DB_HOST = 'localhost'  
    DB_USER = 'root'
    DB_PASS = ''
    DB_NAME = 'expense_tracker'
-
+```
 5.**Start the project**
+```bash
    http://localhost/expence-tracker
-
+```
 💻 Usage
    Register or Log In
    Add an Expense – Enter the amount, date, and category
